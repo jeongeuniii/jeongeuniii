@@ -10,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact)](https://github.com/jeongeuniii/github-readme-stats)
 <br>
 <hr>
-<br>
 
 # 📖활동내역📖
   
