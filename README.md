@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=003399&height=230&section=header&text=Jeongeun%20Moon&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=003399&height=230&section=header&text=🌙Jeongeun%20Moon🌙&fontSize=40&fontAlignY=40)
 
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&show_icons=true&theme=tokyonight)
 
