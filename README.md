@@ -6,8 +6,6 @@
 <br>
 * * *
 <br>
-  
-<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact&theme=tokyonight)](https://github.com/jeongeuniii/github-readme-stats)
   
@@ -27,3 +25,5 @@
 | 08.23 ~ 08.24 | 창·문(창의적 문제해결)-1,2차 | 대내활동 |  |
 | 08.13 ~ 08.14 | 앞마당 해커톤 | 대외활동 | [수료증](./attach/앞마당_문정은.pdf) |
 | 06.22 ~ 07.19 | 빅데이터 및 인공지능을 위한 데이터 분석 | 대내활동,<br>부산정보산업진흥원 |  |
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=003399&height=200&section=footer)
