@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=003399&height=230&section=header&text=🌙Jeongeun%20Moon🌙&fontSize=40&fontAlignY=40)
   
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&show_icons=true&theme=tokyonight)
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 * * *
 <br>
   
 <div align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact)](https://github.com/jeongeuniii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact&theme=tokyonight)](https://github.com/jeongeuniii/github-readme-stats)
   
 <hr>
 <div align="center">
