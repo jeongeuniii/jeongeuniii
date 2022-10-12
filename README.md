@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=003399&height=230&section=header&text=🌙Jeongeun%20Moon🌙&fontSize=40&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=003399&height=230&section=header&text=🌙Jeongeun%20Moon🌙&fontSize=40&fontAlignY=40)
   
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&count_private=true&show_icons=true&theme=tokyonight)
+  ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&count_private=true&show_icons=true&theme=tokyonight)
   
 </div>
 
@@ -11,7 +11,7 @@
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact&theme=tokyonight" />
-
+  
   ### 📝공부중...📝
   
   ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -26,9 +26,10 @@
   
 </div>
 
+* * *
+
 <div align="center">
 
-  * * *
   
   # 📖활동내역📖
   
