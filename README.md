@@ -10,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact&theme=tokyonight)](https://github.com/jeongeuniii/github-readme-stats)
   
 <hr>
-<div align="center">
 
 # 📖활동내역📖
   
