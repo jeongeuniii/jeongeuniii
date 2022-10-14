@@ -4,7 +4,7 @@
   
   ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&count_private=true&show_icons=true&theme=tokyonight)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongeuniii%2Fhit-counter&count_bg=%231E4BB5&title_bg=%23A3A3A3&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongeuniii%2Fhit-counter&count_bg=%231E4BB5&title_bg=%235D5D5D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
@@ -20,12 +20,14 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
   
   ### ⛏️Tools⛏️
   
   ![GitHub](https://img.shields.io/badge/GitHub-5D5D5D?style=flat-square&logo=github&logoColor=white)
   ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-  
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 </div>
 
 * * *
