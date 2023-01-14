@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=003399&height=230&section=header&text=🌙Jeongeun%20Moon🌙&fontSize=40&fontAlignY=40)
   
-  ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&count_private=true&show_icons=true&theme=tokyonight)
+  ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&theme=tokyonight)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongeuniii%2Fhit-counter&count_bg=%231E4BB5&title_bg=%235D5D5D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact&theme=tokyonight"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact&theme=tokyonight">
   
   ### 📝공부중...📝
   
