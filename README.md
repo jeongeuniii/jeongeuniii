@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&layout=compact&theme=tokyonight">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&hide=ipynb&layout=compact&theme=tokyonight">
   
   ### 📝공부중...📝
   
