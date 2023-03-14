@@ -1,17 +1,7 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=003399&height=230&section=header&text=🌙Jeongeun%20Moon🌙&fontSize=40&fontAlignY=40)
-  
-  ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeuniii&theme=tokyonight)
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongeuniii%2Fhit-counter&count_bg=%231E4BB5&title_bg=%235D5D5D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 
-* * *
-
-<div align="center">
-  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeuniii&hide=ipynb&layout=compact&theme=tokyonight">
   
   ### 📝공부중...📝
@@ -27,6 +17,8 @@
   ![GitHub](https://img.shields.io/badge/GitHub-5D5D5D?style=flat-square&logo=github&logoColor=white)
   ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongeuniii%2Fhit-counter&count_bg=%231E4BB5&title_bg=%235D5D5D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
